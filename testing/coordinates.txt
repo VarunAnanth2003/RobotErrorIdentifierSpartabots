@@ -1,0 +1,34 @@
+Top View:
+Left Master 179, 294
+Left Slave 179, 352
+Right Master 459, 295
+Right Slave 456, 358
+Limelight 317, 96
+Intake Master 126, 648
+Intake Slave 515, 648
+Shooter Master 227, 100
+Shooter Slave 410, 100
+
+Angle View: 
+Left Master 189, 444
+Left Slave 189, 487
+Right Master 452, 445
+Right Slave 452, 485
+Intake Master 145, 588
+Intake Slave 503, 588
+Shooter Master 228, 135
+Shooter Slave 403, 135
+Top Piston 115, 281
+Side Left Piston 90, 461
+Side Right Piston 555, 461
+
+Isometric View:
+Left Master 182, 344
+Left Slave 186, 386
+Right Master 336, 416
+Right Slave 338, 456
+Intake Master 294, 542
+Intake Slave 503, 636
+Shooter Master 355, 117
+Limelight 428, 114
+

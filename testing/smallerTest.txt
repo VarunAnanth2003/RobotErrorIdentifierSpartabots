@@ -1,0 +1,10 @@
+S_LOG <<< Warning: <0.5> Limelight Warning C >>> E_LOG
+S_LOG <<< Warning: <0.75> Limelight Warning C >>> E_LOG
+S_LOG <<< Warning: <0.85> Warning A >>> E_LOG
+S_LOG <<< Warning: <1> Warning A >>> E_LOG
+
+S_LOG ### <1.5> Message A ### E_LOG
+S_LOG <<< Warning: <2> Drive Warning B @Right Motor@ >>> E_LOG
+
+S_LOG !!! Error: <2.5> Drive Error A @Right Motor@ !!! E_LOG
+S_LOG !!! Error: <3> Drive Error A @Right Motor@ !!! E_LOG
